@@ -1,3 +1,5 @@
+//Still not funtioning, mixed isn't working properly
+
 #include "Fraction.h"
 //#include "Mixed.h" (not working properly)
 int main()
