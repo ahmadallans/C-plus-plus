@@ -1,4 +1,4 @@
-/*This program inputs an employee’s first name, last name and salary and outputting these values
+/*This program inputs an employeeâ€™s first name, last name and salary and outputting these values
 along with their salary after raises.*/ 
 #include <iostream>
 #include <string>
