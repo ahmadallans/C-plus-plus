@@ -1,7 +1,7 @@
 #include <iostream>//cin, cout
 using namespace std;//to make it easier instead of writing std
 
-//Acker function to do Ackermann’s function listed int eh question
+//Acker function to do Ackermannâ€™s function listed int eh question
 int Acker(int m, int n)
 {
 	//Homework function was used to create the following if statements
